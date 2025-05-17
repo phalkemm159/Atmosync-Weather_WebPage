@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/1a4a3ff6-bc74-490a-b404-992397577f14)
+![demo1](https://github.com/user-attachments/assets/da7a09b4-aedd-4669-b854-264e31adc8ce)
+
 
 🌦️ Atmosync – Weather WebPage
 
