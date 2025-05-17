@@ -5,7 +5,7 @@
 
 Atmosync is a sleek and responsive weather application built using HTML, CSS, and JavaScript. It utilizes the OpenWeatherMap API to fetch real-time weather data for any city worldwide.
 
-Check out at : (https://atmosync-weather-webapp.onrender.com/)
+Check out at : ([https://atmosync-weather-webapp.onrender.com/](https://atmosync-weather-app.onrender.com/))
 
 ## 🚀 Features
 
