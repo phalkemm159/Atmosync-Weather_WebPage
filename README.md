@@ -1,9 +1,8 @@
-![image](https://github.com/user-attachments/assets/1a4a3ff6-bc74-490a-b404-992397577f14)# 🌦️ Atmosync – Weather WebPage
+![image](https://github.com/user-attachments/assets/1a4a3ff6-bc74-490a-b404-992397577f14)
+
+🌦️ Atmosync – Weather WebPage
 
 Atmosync is a sleek and responsive weather application built using HTML, CSS, and JavaScript. It utilizes the OpenWeatherMap API to fetch real-time weather data for any city worldwide.
-
-![preview](![image](https://github.com/user-attachments/assets/95b08ac4-2089-4a72-9794-a670798028c6)
-)
 
 ## 🚀 Features
 
