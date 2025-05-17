@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atmosync</title>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+</head>
+
+<body>
+
+    <nav class="navbar">
+        <div class="logo">Atmosync</div>
+        <div class="p"><p style="color: #ceccccc5; font-family: 'Times New Roman', Times, serif;">Search Your city Weather on <b>Atomsync</b></p></div>
+        <div class="nav-search"> 
+            <input type="text" class="nav-search-input" placeholder="Enter your location"> 
+            <button
+                class="bx bx-search nav-search-button">
+            </button> 
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="search-box">
+            <i class='bx bxs-map'></i>
+            <input type="text" placeholder="Enter your location">
+            <button class="bx bx-search"></button>
+        </div>
+
+        <p class="city-hide">city hide</p>
+
+        <div class="weather-box">
+            <div class="box">
+                <div class="info-weather">
+                    <div class="weather">
+                        <img src="images/cloud.png" id="img" alt="">
+                        <p class="temperature" id="temp">0<span>°C</span></p>
+                        <p class="description" id="descr">Broken Clouds</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="weather-details">
+            <div class="humidity">
+                <i class='bx bx-water'></i>
+                <div class="text">
+                    <div class="info-humidity" id="humi">
+                        <span>0%</span>
+                    </div>
+                    <p>Humidity</p>
+                </div>
+            </div>
+
+            <div class="wind">
+                <i class='bx bx-wind'></i>
+                <div class="text">
+                    <div class="info-wind" id="wind">
+                        <span>0 Km/Hr</span>
+                    </div>
+                    <p>Wind Speed</p>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="not-found">
+            <div class="box">
+                <img src="images/404.png" alt="">
+                <p>Oops! Location not found!</p>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
